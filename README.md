@@ -1,22 +1,21 @@
-## vertex-density-tool ##
+# Vertex Density
 
-Blender Addon for checking vertex density of Nanite meshes for Unreal Engine 5.
+Blender addon for checking vertex density of `Nanite` meshes for `Unreal Engine 5`.
 
-To install:
+## Installation
 
-(1) Download the .ZIP file (from here: https://github.com/CGKrab/vertex-density-tool/blob/main/Vertex%20Density%20Tool.zip)
+- Download the .zip file (from here: https://github.com/CGKrab/vertex-density-tool/archive/refs/heads/main.zip).
 
-(2) Add the .ZIP file to your Blender addons using the install button under preferences > add-ons
+- Add the .zip file to your Blender addons using the install button under `Preferences > Add-ons`.
 
-(3) Search for the add-on in your add-on preferences add-on list and enable it by checking the checkbox
+- Search for the `Vertex Density` addon and enable it by checking the checkbox.
 
-To use the add-on:
+## Usage
 
-(1) Press 'N' to access the side panel and select the vertex-density add-on
+- `Press 'N'` to access the side panel and select the `Vertex Density` tab.
 
-(2) In object mode, select an object and press the 'check vertex density' button
+- In object mode, select an object and press the `Check` button.
 
-(3) The add-on will calculate and display the vertex density of the object
+- The addon will calculate and display the vertex density of the object.
 
-IMPORTANT: Note that pressing the button will apply the scale of your object. Do not use if for some reason you prefer
-to leave the scale of your objects unapplied. Also, the tool will not work in edit mode. 
+> `NOTE` : This will apply the scale of your object. Do not use if for some reason you prefer to leave the scale of your objects unapplied.
